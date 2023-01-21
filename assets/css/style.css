@@ -492,7 +492,7 @@ header ul li a {
 }
 header .secondary-btn:hover {
   background-color: var(--white-color);
-  color: var(--blue-color);
+  color: var(--blue-color) !important;
 }
 .mobile-menu-ico svg path{
   fill: var(--primary-color);
